@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/innerClassesAndLambdas/task1/build/
+/innerClassesAndLambdas/task2/build/
+/innerClassesAndLambdas/task3/build/
+/innerClassesAndLambdas/task4/build/
+/innerClassesAndLambdas/task5/build/
